@@ -1,0 +1,208 @@
+# **3. NPCs & Roles**
+
+A cohort is a live world populated by many characters, each with their own strengths, responsibilities, and ways of influencing the journey. As DM, you orchestrate the interactions between these roles to maintain momentum, clarity, and culture.
+
+Think of these roles not as rigid job titles, but as **archetypes** that reveal how each participant contributes to the adventure.
+
+---
+
+# **🧙‍♂️ 3.1 Hosts (Dungeon Masters)**
+
+**Archetype:** The Guide, the Facilitator, the Worldbuilder
+**Primary Responsibility:**
+Shape the environment so teams can thrive — *not* direct the outcomes.
+
+**What they do:**
+
+* Run Week 1 sessions (introductions, ideation, workshops, culture-setting)
+* Manage pacing, communication, and vibe
+* Help participants understand how the Guild actually works
+* Ensure team formation happens cleanly
+* Host Demo Day
+* Make membership recommendations
+* Maintain continuity between cohorts
+* Document learnings to improve the next campaign
+
+**DM Principles:**
+
+* You don’t control the story — you enable it.
+* You create conditions for agency, not dependency.
+* You nudge, don’t force.
+* Culture is your strongest tool.
+
+---
+
+# **🧝‍♀️ 3.2 Cohort Participants (Adventurers)**
+
+**Archetype:** The Party
+**Primary Responsibility:**
+Learn, build, collaborate, and contribute to the Guild’s collective strength.
+
+**Profile:**
+Participants are a mix of:
+
+* Prospective members
+* Returning apprentices
+* Existing Raiders seeking to sharpen key skills
+* Builders, designers, strategists, PMs, AI tinkerers, and freelancers
+
+**Expected behaviors:**
+
+* Show up to Week 1
+* Bring ideas, curiosity, and initiative
+* Form or join a team
+* Build consistently throughout the async period
+* Communicate blockers
+* Prepare a real demo
+* Contribute positively to the cohort culture
+
+**Note:**
+This is not a passive experience. The cohort is a **choose-your-own-adventure**, not a classroom.
+
+---
+
+# **⚔️ 3.3 Presenters & Experts (Lorekeepers)**
+
+**Archetype:** The Wise Ones
+**Primary Responsibility:**
+Provide technical depth, thematic insight, and inspiration.
+
+These NPCs appear during Week 1 (and occasionally mid-cohort) to deliver lightning talks, brown bags, or deep-dive sessions, especially during the theme immersion.
+
+Examples:
+
+* A Wizard explaining ERC-8004
+* A Druid showcasing an x402 facilitator architecture
+* A Bard giving a talk on Meme-Driven Development
+* A Paladin walking through security assumptions
+* A Monk presenting team rituals or PM frameworks
+
+**DM Usage:**
+Bring them in to elevate the cohort’s collective understanding and inspire more ambitious builds.
+
+---
+
+# **🏹 3.4 Mentors (High Mages, Rangers, Paladins)**
+
+**Archetype:** The Party Companions
+**Primary Responsibility:**
+Unblock teams during the async weeks.
+
+These are experienced Raiders who provide:
+
+* Design review
+* Code review
+* Product validation
+* Market feedback
+* Architecture critique
+* Vibes and encouragement
+
+**When they appear:**
+
+* Weeks 2–4
+* Office hours
+* Informal check-ins
+* Demo polish sessions
+
+**DM Guidance:**
+Mentors don’t build for the teams — they accelerate and de-risk the build by sharing experience and catching pitfalls early.
+
+---
+
+# **🪶 3.5 Judges (Elders Council)**
+
+**Archetype:** The Council of Elders
+**Primary Responsibility:**
+Evaluate Demo Day work, uphold standards, and help identify potential new members.
+
+**What they look for:**
+
+* Working prototypes (even scrappy ones)
+* Clear narrative + demo flow
+* Insight into the theme
+* Teamwork and execution
+* Future viability
+* Whether the participants show the “Raider spirit”
+* Whether a team might continue building beyond the cohort
+* Whether to recommend member sponsorship
+
+**DM Guidance:**
+Communicate judging criteria early and clearly.
+Judges reinforce standards without crushing creativity.
+
+---
+
+# **⚙️ 3.6 Alumni & OG Raiders (Wandering Veterans)**
+
+**Archetype:** Returning Champions
+**Primary Responsibility:**
+Provide continuity, culture, and occasional guidance.
+
+They may:
+
+* Attend the standup (Day 2)
+* Drop into Week 1 sessions
+* Offer support during ideation
+* Provide mentorship
+* Recruit talent
+* Inspire the cohort with stories of past raids
+
+Their presence signals what the Guild values:
+**initiative, action, accountability, and the courage to build.**
+
+---
+
+# **📜 3.7 Project Teams (Parties of Adventure)**
+
+**Archetype:** The Questing Party
+**Primary Responsibility:**
+Build something real.
+
+A strong team often includes:
+
+* **Product lead** (scope, story, user flow)
+* **Design / UX** (visuals, prototyping)
+* **Frontend** (UI, client)
+* **Backend / Smart contracts** (infra, core logic)
+* **Research / PM** (spec, planning, comms)
+
+Teams are expected to:
+
+* Self-organize
+* Operate async
+* Communicate proactively
+* Make decisions autonomously
+* Ship incrementally
+* Prepare a demo they’re proud of
+
+**DM Guidance:**
+Forming good teams is one of the most important levers in the cohort.
+You want **balanced parties**, not four wizards and no cleric.
+
+---
+
+
+# **🎭 3.8 The DM Crew (Support Staff & Co-hosts)**
+
+For larger cohorts, hosts may assemble a small support party:
+
+* **Timekeeper** — keeps sessions tight
+* **Mod / Scribe** — manages Discord, Zoom, notes, threads
+* **Archivist** — collects demos, specs, artifacts for Cohort Archives
+* **Keeper of Rituals** — ensures ceremonies are consistent
+
+This keeps hosts focused on facilitation rather than logistics.
+
+---
+
+# **🧭 Why These Roles Matter**
+
+Cohorts work because the roles are distinct but overlapping.
+Together they create:
+
+* **Structure without rigidity**
+* **Support without dependency**
+* **Culture without gatekeeping**
+* **Freedom without chaos**
+
+As DM, your mastery lies in **activating these roles at the right time**, creating a living ecosystem where great work can happen.
