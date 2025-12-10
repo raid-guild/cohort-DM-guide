@@ -1,0 +1,25 @@
+{
+  "name": "cohort-dmg",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "16.0.8",
+    "nextra": "4.6.1",
+    "nextra-theme-docs": "4.6.1",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
+  },
+  "devDependencies": {
+    "eslint": "9.15.0",
+    "eslint-config-next": "16.0.8",
+    "pagefind": "^1.4.0",
+    "serve": "^14.2.4"
+  }
+}

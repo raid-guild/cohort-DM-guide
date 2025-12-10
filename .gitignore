@@ -1,0 +1,9 @@
+node_modules
+.next
+.vercel
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+public/_pagefind
+out

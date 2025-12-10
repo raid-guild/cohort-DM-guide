@@ -1,0 +1,20 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "guide": {
+    "title": "Cohort DM Guide",
+    "type": "page",
+    "items": {
+      "index": "Guide Overview",
+      "01-preface": "1. Preface",
+      "02-world-map": "2. World Map",
+      "03-npcs-and-roles": "3. NPCs & Roles",
+      "04-core-encounters": "4. Core Encounters",
+      "05-theme-and-side-quests": "5. Theme & Side Quests",
+      "06-loot-xp-progression": "6. Loot, XP & Progression",
+      "07-dm-toolkit": "7. DM Toolkit"
+    }
+  }
+}

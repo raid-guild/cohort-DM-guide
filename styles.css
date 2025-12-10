@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'Mazius Display';
+  src:
+    url('/fonts/MAZIUSREVIEW20.09-Regular.woff') format('woff'),
+    url('/fonts/MAZIUSREVIEW20.09-Regular.otf') format('opentype'),
+    url('/fonts/MaziusDisplay-Bold.otf') format('opentype'),
+    url('/fonts/MaziusDisplay-ExtraItalicBold.otf') format('opentype'),
+    url('/fonts/MaziusDisplay-Extraitalic.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src:
+    url('/fonts/EBGaramond-VariableFont_wght.ttf') format('truetype'),
+    url('/fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
+  font-display: swap;
+}
+
+:root {
+  --rg-moloch-500: #bd482d;
+  --rg-moloch-700: #5c2316;
+  --rg-scroll-100: #f9f7e7;
+  --rg-neutral-800: #221d1c;
+  color-scheme: light;
+}
+
+html {
+  background-color: var(--rg-scroll-100);
+}
+
+body {
+  font-family: 'EB Garamond', 'Times New Roman', serif;
+  color: var(--rg-neutral-800);
+  background: radial-gradient(circle at 20% 20%, rgba(255, 214, 194, 0.35), transparent 25%),
+    radial-gradient(circle at 80% 0%, rgba(221, 197, 148, 0.28), transparent 30%),
+    var(--rg-scroll-100);
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+.dark body {
+  background: radial-gradient(circle at 20% 20%, rgba(189, 72, 45, 0.18), transparent 25%),
+    radial-gradient(circle at 80% 0%, rgba(92, 35, 22, 0.35), transparent 30%),
+    #0d0d0d;
+  color: #f9f7e7;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Mazius Display', 'EB Garamond', serif;
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: var(--rg-moloch-500);
+}
+
+a:hover {
+  color: var(--rg-moloch-700);
+}
+
+.rg-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: 'Mazius Display', serif;
+  color: var(--rg-neutral-800);
+}
+
+.rg-logo__glyph {
+  font-size: 1.25rem;
+  color: var(--rg-moloch-500);
+}
+
+.rg-logo__wordmark {
+  letter-spacing: -0.015em;
+}
+
+.nextra-navbar .rg-logo {
+  color: var(--rg-neutral-800);
+}
+
+.dark .nextra-navbar .rg-logo {
+  color: #f9f7e7;
+}
+
+.dark .rg-logo__glyph {
+  color: #f7d6c9;
+}
+
+.nextra-content blockquote {
+  border-left: 3px solid var(--rg-moloch-500);
+  background: rgba(189, 72, 45, 0.07);
+}
+
+.dark .nextra-content blockquote {
+  background: rgba(189, 72, 45, 0.12);
+}
+
+.nextra-content a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(189, 72, 45, 0.35);
+}
+
+.nextra-content a:hover {
+  border-color: var(--rg-moloch-700);
+}
+
+.dark .nextra-content a {
+  color: #f7d6c9;
+  border-color: rgba(247, 214, 201, 0.5);
+}
+
+.dark .nextra-content a:hover {
+  color: #ffd9c9;
+  border-color: rgba(247, 214, 201, 0.8);
+}
+
+code,
+pre {
+  font-family: 'Ubuntu Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    'Liberation Mono', 'Courier New', monospace;
+}
+
+.rg-hero {
+  position: relative;
+  margin: 1.5rem 0 2.25rem;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 15px 55px rgba(0, 0, 0, 0.18);
+}
+
+.rg-hero img {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  display: block;
+  filter: saturate(1.05);
+}
+
+@media (min-width: 960px) {
+  .rg-hero img {
+    height: 320px;
+  }
+}
+
+.rg-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(13, 13, 13, 0.05), rgba(13, 13, 13, 0.25));
+  mix-blend-mode: multiply;
+}
+
+.dark .rg-hero::after {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.45));
+}

@@ -1,0 +1,26 @@
+{
+  "index": {
+    "title": "Guide Overview"
+  },
+  "01-preface": {
+    "title": "1. Preface"
+  },
+  "02-world-map": {
+    "title": "2. World Map"
+  },
+  "03-npcs-and-roles": {
+    "title": "3. NPCs & Roles"
+  },
+  "04-core-encounters": {
+    "title": "4. Core Encounters"
+  },
+  "05-theme-and-side-quests": {
+    "title": "5. Theme & Side Quests"
+  },
+  "06-loot-xp-progression": {
+    "title": "6. Loot, XP & Progression"
+  },
+  "07-dm-toolkit": {
+    "title": "7. DM Toolkit"
+  }
+}

@@ -3,18 +3,33 @@
 A Dungeon-Master-style playbook for running monthly cohorts in RaidGuild.  
 This guide defines the structure, roles, rituals, quests, and progression system behind the Cohort program — making it easier for any host (DM) to run a strong, consistent, culture-aligned cohort.
 
+Now served as a [Nextra docs site](https://nextra.site/docs/docs-theme/start) with RaidGuild branding (fonts, palette, lore).
+
+## Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+Visit `http://localhost:3000` for the live docs. Pages live under `app/guide/` (App Router, MDX).
+
+## Branding
+
+Brand tokens, fonts, and setup notes are captured in `RG_BRAND_AGENTS.md` and applied via `styles.css` and `app/layout.jsx`. Fonts live in `public/fonts/`.
+
 ---
 
 ## Table of Contents
 
 ### **Core Chapters**
-- [1. Preface](./docs/01-preface.md)
-- [2. World Map: The Cohort Journey](./docs/02-world-map.md)
-- [3. NPCs & Roles](./docs/03-npcs-and-roles.md)
-- [4. Core Encounters](./docs/04-core-encounters.md)
-- [5. Theme & Side Quests](./docs/05-theme-and-side-quests.md)
-- [6. Loot, XP & Progression](./docs/06-loot-xp-progression.md)
-- [7. DM Toolkit & Resource Index](./docs/07-dm-toolkit.md)
+- [1. Preface](./app/guide/01-preface/page.mdx)
+- [2. World Map: The Cohort Journey](./app/guide/02-world-map/page.mdx)
+- [3. NPCs & Roles](./app/guide/03-npcs-and-roles/page.mdx)
+- [4. Core Encounters](./app/guide/04-core-encounters/page.mdx)
+- [5. Theme & Side Quests](./app/guide/05-theme-and-side-quests/page.mdx)
+- [6. Loot, XP & Progression](./app/guide/06-loot-xp-progression/page.mdx)
+- [7. DM Toolkit & Resource Index](./app/guide/07-dm-toolkit/page.mdx)
 
 ### **Supporting Materials (optional future sections)**
 - `/docs/templates/` — session scripts, checklists, forms  
