@@ -22,5 +22,11 @@
   },
   "07-dm-toolkit": {
     "title": "7. DM Toolkit"
+  },
+  "08-campaign-variants": {
+    "title": "8. Campaign Variants"
+  },
+  "09-ecosystem-deployments": {
+    "title": "9. Ecosystem Deployments"
   }
 }

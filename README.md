@@ -20,6 +20,15 @@ Brand tokens, fonts, and setup notes are captured in `RG_BRAND_AGENTS.md` and ap
 
 ---
 
+## Editing content
+
+- The **live site content** comes from `app/guide/*/page.mdx`.
+- The files under `docs/` are **reference/backup drafts** and do not affect the rendered site unless you manually sync changes into `app/guide/`.
+
+When in doubt, edit the matching `app/guide/.../page.mdx` file.
+
+---
+
 ## Table of Contents
 
 ### **Core Chapters**
@@ -30,6 +39,8 @@ Brand tokens, fonts, and setup notes are captured in `RG_BRAND_AGENTS.md` and ap
 - [5. Theme & Side Quests](./app/guide/05-theme-and-side-quests/page.mdx)
 - [6. Loot, XP & Progression](./app/guide/06-loot-xp-progression/page.mdx)
 - [7. DM Toolkit & Resource Index](./app/guide/07-dm-toolkit/page.mdx)
+ - [8. Campaign Variants](./app/guide/08-campaign-variants/page.mdx)
+ - [9. Ecosystem Deployments](./app/guide/09-ecosystem-deployments/page.mdx)
 
 ### **Supporting Materials (optional future sections)**
 - `/docs/templates/` — session scripts, checklists, forms  
