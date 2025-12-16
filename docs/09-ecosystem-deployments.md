@@ -1,0 +1,158 @@
+# **Cohort as a Service (CaaS) & Ecosystem Deployments**
+
+*Portable campaigns for ecosystems that want builders, not spectators.*
+
+RaidGuild’s Cohort system is not just an internal onboarding mechanism — it is a **reusable, battle-tested format** that can be deployed as a service for other ecosystems, chains, DAOs, protocols, and communities.
+
+Cohort as a Service (CaaS) packages the Guild’s facilitation, culture, and build mechanics into a **turn-key program** that helps partners activate builders, generate real projects, and cultivate long-term contributors.
+
+---
+
+## **What CaaS Is (and Is Not)**
+
+**CaaS is:**
+
+* A structured, facilitated build campaign
+* Focused on real outputs and relationships
+* Designed to surface high-signal contributors
+* Adaptable in format (Hyper Sprint, Mini-Cohort, Full Cohort)
+* Run by experienced RaidGuild hosts and mentors
+
+**CaaS is not:**
+
+* A hackathon
+* A bounty farm
+* A demo theater
+* A one-off marketing stunt
+
+The goal is not “submissions” — it’s **activation, education, and retention**.
+
+---
+
+## **Who CaaS Is For**
+
+CaaS is a good fit for partners who want to:
+
+* Onboard builders into a new chain or protocol
+* Activate a dormant or passive community
+* Explore a new technical primitive (EIP, standard, SDK)
+* Generate reference implementations
+* Identify long-term contributors or grantees
+* Seed an ecosystem with aligned builders
+* Run conference-adjacent or residency-style programs
+
+Examples:
+
+* L2s and appchains
+* DAO ecosystems
+* Grant programs
+* Protocol foundations
+* DevRel teams
+* Research collectives
+
+---
+
+## **CaaS Formats**
+
+CaaS supports multiple delivery formats, depending on partner needs:
+
+### **⚡ Hyper Sprint (1 Day)**
+
+* Conference or offsite activation
+* Fast immersion + artifact generation
+* Low friction, high energy
+* Ideal for first touch or pilots
+
+### **🗓️ Mini-Cohort (1 Week, In-Person or Hybrid)**
+
+* Deeper relationship building
+* Mentor rotations
+* Strong demo outcomes
+* Great for city-based or residency programs
+
+### **🧭 Full Cohort (4–5 Weeks)**
+
+* Deep technical exploration
+* Multiple teams and projects
+* Async build cycles
+* Best for ecosystem seeding
+
+Each format shares the same **core mechanics**, just compressed or expanded.
+
+---
+
+## **What RaidGuild Provides**
+
+Depending on the engagement, RaidGuild may provide:
+
+* **Hosts / Dungeon Masters**
+* **Program design & customization**
+* **Theme selection & scoping**
+* **Workshop facilitation (e.g. MDD)**
+* **Mentors and subject-matter experts**
+* **Demo Day facilitation**
+* **Evaluation & feedback**
+* **Post-cohort synthesis & reporting**
+
+Optional add-ons:
+
+* Custom dashboards
+* Agentic tooling (ShadowOrg)
+* Documentation & artifact packaging
+* Follow-on RAIDs or incubation support
+
+---
+
+## **Partner Responsibilities**
+
+To ensure success, partners typically provide:
+
+* A clear problem space or theme
+* Technical resources (SDKs, docs, RPCs, testnets)
+* Optional funding, prizes, or grants
+* Access to internal experts
+* Post-cohort pathways (grants, contracts, roles)
+
+CaaS works best when partners are **co-facilitators**, not spectators.
+
+---
+
+## **Outputs & Value**
+
+A successful CaaS engagement produces:
+
+* Working prototypes
+* Reference implementations
+* Research artifacts
+* Docs or tooling improvements
+* A cohort of trained, activated builders
+* Clear signal on high-potential contributors
+* Long-term relationships, not just demos
+
+---
+
+## **CaaS as a Growth Loop**
+
+CaaS creates a flywheel:
+
+1. Partner ecosystem hosts a cohort
+2. Builders learn + build
+3. Best contributors continue into partner ecosystem
+4. Some builders join RaidGuild cohorts or RAIDs
+5. Knowledge flows both ways
+
+This positions RaidGuild as a **cross-ecosystem connective tissue**.
+
+---
+
+## **Why RaidGuild**
+
+RaidGuild is uniquely positioned to offer CaaS because:
+
+* We build in production, not theory
+* We’ve run many cohorts already
+* We combine technical depth with culture
+* We value agency over compliance
+* We optimize for long-term contribution
+
+CaaS is an extension of what the Guild already does — just made portable.

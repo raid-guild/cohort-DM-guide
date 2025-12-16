@@ -1,0 +1,219 @@
+# Campaign Variants & Alternative Cohort Formats
+
+These formats reuse the same **quests, roles, encounters, and progression**, but compress or reshape the timeline.
+
+---
+
+## ⚡ Format A: The Hyper Sprint (1-Day Intensive)
+
+**Use when:**
+
+* Conference-adjacent events
+* Retreats / offsites
+* Partner DAOs
+* Onboarding bursts
+* “Taste of RaidGuild” experiences
+* High-energy, limited-time windows
+
+Think: **one-day dungeon crawl**, not a marathon.
+
+---
+
+### 🎯 Goal of the Hyper Sprint
+
+* Rapid immersion into RaidGuild culture
+* Hands-on collaboration
+* One concrete artifact by end of day
+* Strong signal on who “gets it”
+
+This is *not* about polish — it’s about **activation**.
+
+---
+
+## 🗓️ Sample Hyper Sprint Schedule (6–8 hours)
+
+### **Act I — Arrival & Alignment (1–1.5 hrs)**
+
+**Encounter: Welcome to the Tavern**
+
+* Intros (fast, structured)
+* What RaidGuild is (and isn’t)
+* “Not a hackathon” framing
+* Theme reveal
+* Show 1–2 prior demos (short)
+
+**Output:** shared context + energy
+
+---
+
+### **Act II — Divergence (1.5 hrs)**
+
+**Encounter: Meme Driven Development**
+
+* Fast ideation
+* Meme → pain → idea loops
+* Breakout groups
+* Idea wall / board
+
+**Output:** many ideas, social bonding
+
+---
+
+### **Act III — Convergence & Party Formation (1 hr)**
+
+**Encounter: Choose Your Quest**
+
+* Cluster ideas
+* Vote / signal
+* Form teams (2–4 people)
+* Pick one scoped goal
+
+**Output:** teams + clear objective
+
+---
+
+### **Act IV — Build Sprint (2–3 hrs)**
+
+**Encounter: The Buildlands (Compressed)**
+
+* Heads-down building
+* Mentors float between teams
+* Hard scope constraints
+* “What can you demo in 2 hours?”
+
+**Output:** something that *exists*
+
+---
+
+### **Act V — Demo & Reflection (1 hr)**
+
+**Encounter: The Arena**
+
+* 3–5 min demos per team
+* Group reflection
+* Callouts for standout contributors
+* Explain progression paths (cohort grad, RIPs, etc.)
+
+**Output:** shared accomplishment + next steps
+
+---
+
+### 🎁 Hyper Sprint Rewards (Loot)
+
+* Hyper Sprint Graduate status (lightweight)
+* Eligibility to join future cohorts
+* Strong signal for mentorship / RIP invites
+* Raider of the Day recognition
+
+> Think of this as **a gateway drug to the full cohort**.
+
+---
+
+## 🧭 Format B: One-Week In-Person Mini-Cohort
+
+*(Daily 1–2hr Sessions + Mentor Time)*
+
+**Use when:**
+
+* Local chapters
+* Coworking spaces
+* City-based Guild meetups
+* University programs
+* Residency-style programs
+
+This is a **condensed campaign**, social-first, relationship-heavy.
+
+---
+
+## 🗓️ Sample 5-Day In-Person Flow
+
+### **Day 1 — Arrival & Theme Immersion**
+
+**Encounters:**
+
+* Introductions
+* Guild overview
+* Theme reveal
+* Expectation setting
+* Social bonding
+
+**Homework:** light ideation
+
+---
+
+### **Day 2 — Ideation & Exploration**
+
+**Encounters:**
+
+* Meme Driven Development
+* Theme deep dive
+* Lightning talks
+* Creative workshops
+
+**Homework:** bring one idea
+
+---
+
+### **Day 3 — Convergence & Team Formation**
+
+**Encounters:**
+
+* Pitch ideas
+* Team formation
+* Scope definition
+* Repo / tools setup
+
+**Homework:** initial build or spec
+
+---
+
+### **Day 4 — Build + Mentor Sessions**
+
+**Encounters:**
+
+* Heads-down build
+* Scheduled mentor rotations
+* Mid-day check-in
+* Scope correction
+
+**Homework:** demo prep
+
+---
+
+### **Day 5 — Demo Day & Reflection**
+
+**Encounters:**
+
+* Live demos
+* Feedback
+* Recognition
+* Next-step pathways (RIPs, cohorts, RAIDs)
+
+**Outcome:** tight social bonds + real artifacts
+
+---
+
+### 🎁 Mini-Cohort Rewards
+
+* Full **Cohort Graduate** status (if expectations met)
+* Demo Day eligibility
+* Mentor visibility
+* Strong path into RIPs / RAIDs
+* Raider of the Month eligibility
+
+---
+
+## 🧠 Key Design Principles Across All Formats
+
+These are invariant — regardless of length:
+
+* **Not a hackathon**
+* **Relationships > submissions**
+* **Agency > assignments**
+* **Shipping > perfection**
+* **Culture is taught by participation**
+* **Progression is earned, not granted**
+
+The format changes.
+The *values do not*.
+
