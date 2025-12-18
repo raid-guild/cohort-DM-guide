@@ -36,6 +36,17 @@ Quick links: [live site](https://www.brand.raidguild.org/) | [repo](https://gith
 - Families: `--font-display` (Mazius Display), `--font-body` (EB Garamond), `--font-mono` (Ubuntu Mono).
 - Utility classes (preferred): `type-display-lg/md/sm`, `type-heading-lg/md/sm`, `type-body-lg/md/sm`, `type-label`, `type-label-md`, `type-label-sm`, `type-code-lg/md/sm`. Uses weights, letter spacing, and line heights defined in globals.
 
+## Copy & capitalization
+- Titles and headings: follow standard English title casing used in the design (for example, `Guide Overview`, `Core Encounters`, `Cohort DM Guide`).
+- Avoid CSS small caps for body copy and navigation (for example, do not set `font-variant: small-caps` or force pseudo-all-caps via letterspacing/size tricks).
+- Avoid visual bolding in running copy. Keep `strong`/`b` for semantic emphasis only, and style them with the same weight as surrounding text.
+- Use ALL CAPS sparingly and only for short badges or labels where explicitly called for in the design system.
+
+### Nextra docs theme note
+- If the repo uses `nextra-theme-docs`, its defaults (and some fonts) can enable small-caps or uppercase styling for nav and body text.
+- In this repo we fix that at the font level by resetting OpenType caps features on `body` (for example: `font-variant: normal; font-variant-caps: normal; font-feature-settings: 'smcp' 0, 'c2sc' 0, 'pcap' 0, 'c2pc' 0;`).
+- Optional: if a future theme or utility class forces `text-transform: uppercase` on specific elements (like breadcrumbs), add a scoped override (for example, `text-transform: none` on those selectors) to keep casing consistent with authored copy.
+
 ## Components (must-use)
 - Source of truth: `docs/ui-components.md`. Import path: `@/components/ui/<component>`.
 - Highlights: Button (variants: primary, secondary, ghost, moloch), Form system (Form, FormField, FormLabel, FormControl, FormMessage, RequiredFieldIndicator) with React Hook Form, Card/Tabs/Accordion for structure, Dialog/Sheet/Drawer for overlays, Table/DataTable, Select/Combobox/Multiselect, Badge variants (default, secondary, destructive, outline, moloch, scroll), Tooltip/Popover/HoverCard, Wizard, Sidebar, Command palette, Progress, Slider, DatePicker/Calendar, Carousel, Breadcrumb/Pagination/NavigationMenu.
@@ -46,6 +57,8 @@ Quick links: [live site](https://www.brand.raidguild.org/) | [repo](https://gith
 - Colors: `colors/page.tsx` shows palettes and hexes; developer note points to `globals.css`.
 - Typography: `typography/page.tsx` shows specimens, usage guidance; font downloads link.
 - Iconography: `iconography/page.tsx` references SVG sets in `public/assets/icon` (8bit roles, D&D service icons, magic set).
+- Cohort guide icon assets: this repo also exposes a subset of brand icons under `/dd` (D&D-style line icons for roles, tools, and encounters) and `public/assets/icon/magic` (magic UI glyphs like stars, crystals, lanterns, flasks). the /8bit folder has special 8bit style icons for the different roles in RaidGuild
+- In documentation and MDX content, prefer these SVG icons over raw emojis. Use them via `<img src="/icon/dd/swords.svg" />` or `<img src="/icon/magic/star.svg" />` with semantic `alt` text, and avoid relying on emoji-only headings.
 - Illustrations: `illustrations/page.tsx` uses gallery from `public/assets/webp`, both color (-c) and B&W (-bw), multiple aspect ratios.
 - Home (`page.tsx`): quick links to PDF, Figma, GitHub; “For Archers” (design) and “For Warriors” (dev) navigation.
 

@@ -35,6 +35,9 @@ body {
   background: radial-gradient(circle at 20% 20%, rgba(255, 214, 194, 0.35), transparent 25%),
     radial-gradient(circle at 80% 0%, rgba(221, 197, 148, 0.28), transparent 30%),
     var(--rg-scroll-100);
+  font-variant: normal;
+  font-variant-caps: normal;
+  font-feature-settings: 'smcp' 0, 'c2sc' 0, 'pcap' 0, 'c2pc' 0;
 }
 
 .dark {
@@ -82,45 +85,27 @@ a:hover {
   letter-spacing: -0.015em;
 }
 
-.nextra-navbar .rg-logo {
-  color: var(--rg-neutral-800);
+
+
+body strong,
+body b {
+  font-weight: inherit;
 }
 
-.dark .nextra-navbar .rg-logo {
+.rg-inline-icon {
+  display: inline-block;
+  width: 1.25em;
+  height: 1.25em;
+  vertical-align: -0.2em;
+  margin-right: 0.35em;
+  color: var(--rg-neutral-900);
+}
+
+.dark .rg-inline-icon {
   color: #f9f7e7;
+  filter: invert(1);
 }
 
-.dark .rg-logo__glyph {
-  color: #f7d6c9;
-}
-
-.nextra-content blockquote {
-  border-left: 3px solid var(--rg-moloch-500);
-  background: rgba(189, 72, 45, 0.07);
-}
-
-.dark .nextra-content blockquote {
-  background: rgba(189, 72, 45, 0.12);
-}
-
-.nextra-content a {
-  text-decoration: none;
-  border-bottom: 1px solid rgba(189, 72, 45, 0.35);
-}
-
-.nextra-content a:hover {
-  border-color: var(--rg-moloch-700);
-}
-
-.dark .nextra-content a {
-  color: #f7d6c9;
-  border-color: rgba(247, 214, 201, 0.5);
-}
-
-.dark .nextra-content a:hover {
-  color: #ffd9c9;
-  border-color: rgba(247, 214, 201, 0.8);
-}
 
 code,
 pre {
@@ -161,3 +146,5 @@ pre {
 .dark .rg-hero::after {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.45));
 }
+
+
