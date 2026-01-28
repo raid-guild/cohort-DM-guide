@@ -18,5 +18,22 @@
       "08-campaign-variants": "8. Campaign Variants",
       "09-ecosystem-deployments": "9. Ecosystem Deployments"
     }
+  },
+  "resources": {
+    "title": "Resources",
+    "type": "page",
+    "items": {
+      "index": "Resources Overview",
+      "day1-host-checklist": "Day 1 Host Checklist",
+      "day1-feedback-form": "Day 1 Feedback Form"
+    }
+  },
+  "slides": {
+    "title": "Slides",
+    "type": "page",
+    "items": {
+      "index": "Slides Overview",
+      "test-deck": "Test Deck"
+    }
   }
 }

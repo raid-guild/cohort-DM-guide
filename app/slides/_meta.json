@@ -1,0 +1,27 @@
+{
+  "index": "Slides Overview",
+  "day1-info-sesh": {
+    "title": "Day 1 Info Session",
+    "theme": {
+      "layout": "full",
+      "navbar": false,
+      "sidebar": false,
+      "toc": false,
+      "breadcrumb": false,
+      "pagination": false,
+      "footer": false
+    }
+  },
+  "day2-pre-brief": {
+    "title": "Day 2 Pre-Brief",
+    "theme": {
+      "layout": "full",
+      "navbar": false,
+      "sidebar": false,
+      "toc": false,
+      "breadcrumb": false,
+      "pagination": false,
+      "footer": false
+    }
+  }
+}

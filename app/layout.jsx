@@ -9,6 +9,7 @@ import { getPageMap } from 'nextra/page-map';
 import { Footer, Layout, Navbar } from 'nextra-theme-docs';
 
 import brandTheme, { logo } from '../theme.config';
+import SlidesBodyToggle from '../components/slides/SlidesBodyToggle';
 
 const navbar = (
   <Navbar
@@ -56,6 +57,7 @@ export default async function RootLayout({ children }) {
           nextThemes={{ attribute: 'class', defaultTheme: 'system', storageKey: 'rg-theme' }}
           themeSwitch={{ dark: 'Dark', light: 'Light', system: 'System' }}
         >
+          <SlidesBodyToggle />
           {children}
         </Layout>
       </body>

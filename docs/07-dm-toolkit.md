@@ -16,14 +16,17 @@ These materials explain RaidGuild culture, structure, and cohort philosophy.
 * **RaidGuild Agency Deck**
   *Overview of services, internal structure, and BD narrative.*
 
-* **Cohort Info Session Deck (Template)**
-  *Used on Week 1, Day 1. Explains the cohort arc, rules, expectations, and theme.*
+* **Cohort Info Session Deck**
+  *Used on Week 1, Day 1. Explains the cohort arc, rules, expectations, and theme.*  
+  **Deck:** [/slides/day1-info-sesh](/slides/day1-info-sesh)
 
 * **Cohort Overview README (Markdown)**
   *A concise reference for participants: timeline, rules, standup schedule, how to ask for help.*
 
 * **Theme Deep Dive Deck (per Cohort)**
   *Short technical introduction to the cohort theme.*
+
+> Tip: you can link to a specific slide with `#slide-<number>` (example: `/slides/day1-info-sesh#slide-3`).
 
 ---
 
@@ -33,14 +36,16 @@ These resources support the live sessions of the interactive first week.
 
 ### **Day 1 — Welcome & Theme Reveal**
 
-* Info Session Deck
+* [Info Session Deck](/slides/day1-info-sesh)
 * Participant Introductions Template
 * Cohort Expectations & Culture Script
 * Theme Reveal Slide or Narrative Script
 * Day 1 Feedback Form
+* [Day 1 Host Checklist](#day-1-host-checklist)
 
 ### **Day 2 — Raider Showcase (Standup)**
 
+* [Day 2 Pre-Brief Deck](/slides/day2-pre-brief)
 * Standup Guide (“What you’re about to see”)
 * RIPs and RAIDs overview sheet
 * Post-Standup Reflection Form
@@ -210,3 +215,153 @@ For collecting outputs and preserving cohort history.
 * Prep judging materials
 * Confirm run-of-show
 
+---
+
+# **✅ Day 1 Host Checklist — Welcome & Theme Reveal**
+
+### 🎯 Day 1 Goals
+
+* Make people feel welcome and oriented
+* Set cultural expectations
+* Introduce the cohort structure
+* Reveal the theme
+* Activate participation immediately
+
+---
+
+## ✅ Pre-Session Prep (Before the Call)
+
+**Logistics**
+
+* [ ] Session scheduled (calendar + Discord pinned)
+* [ ] Video link tested (Zoom / Meet)
+* [ ] Recording enabled (if applicable)
+* [ ] Co-host assigned (timekeeping, chat, notes)
+
+**Materials Ready**
+
+* [ ] Info Session / Cohort Overview deck
+* [ ] RaidGuild Agency deck (if included)
+* [ ] Theme Reveal slide or script
+* [ ] Participant Introductions prompt
+* [ ] CTA slide or message
+* [ ] Time Capsule prompt
+* [ ] Links ready:
+
+  * [ ] RaidGuild Handbook
+  * [ ] Portal / profile link
+  * [ ] Discord channels
+
+**Mental Prep**
+
+* [ ] Rehearse your personal intro (model vulnerability)
+* [ ] Decide how strict you’ll be on time
+* [ ] Identify 1–2 culture points to emphasize
+* [ ] Remember: *you set the vibe*
+
+---
+
+## 🕯️ Opening the Session (First 5–10 Minutes)
+
+* [ ] Start on time
+* [ ] Welcome everyone warmly
+* [ ] Thank them for showing up
+* [ ] Acknowledge time zones & energy levels
+* [ ] Explain the flow of the session
+* [ ] State clearly: *this is not a hackathon*
+
+---
+
+## 👋 Participant Introductions
+
+* [ ] Share the intro template
+* [ ] Model your own intro first
+* [ ] Keep answers short (gently cut long ones)
+* [ ] Call out interesting overlaps or themes
+* [ ] Encourage curiosity, not comparison
+
+> DM Tip: This is about people, not credentials.
+
+---
+
+## 🏛️ Culture & Expectations
+
+* [ ] Explain what a DAO is (high level)
+* [ ] Emphasize decentralization as a spectrum
+* [ ] Explain RaidGuild’s stake → shares → governance model
+* [ ] Highlight agency and self-direction
+* [ ] Introduce the Code of Conduct pillars
+* [ ] Frame RG as collaborative, fluid, and sometimes challenging
+
+Optional:
+
+* [ ] Mention Moloch / coordination failure
+* [ ] Share links for deeper reading (don’t dwell)
+
+---
+
+## 🔥 Theme Reveal
+
+* [ ] Explain *why* the theme was chosen
+* [ ] Reveal the theme clearly
+* [ ] Share 1–2 example ideas
+* [ ] Share 1 wild or speculative idea
+* [ ] Encourage curiosity, not pressure
+
+---
+
+## 📣 Calls to Action (End of Session)
+
+Make the next steps extremely clear.
+
+* [ ] Ask everyone to:
+
+  * [ ] Drop an intro in chat (if not done live)
+  * [ ] Fill out their profile in the portal
+  * [ ] Select skills / roles for this cohort
+
+Other stuff:
+
+* [ ] Share relevant links in chat
+* [ ] Explain what happens on Day 2 (Raider Showcase)
+* [ ] Share schedule for the rest of Week 1
+
+---
+
+## ⏳ Time Capsule Prompt
+
+* [ ] Ask the reflection question
+* [ ] Explain it will be revisited at cohort retro
+* [ ] Collect responses (form / chat / portal)
+
+---
+
+## 🧭 Close the Session
+
+* [ ] Thank everyone for showing up
+* [ ] Re-emphasize excitement and openness
+* [ ] Invite questions async
+* [ ] End on a positive, forward-looking note
+
+---
+
+## 🧠 Post-Session Follow-Up (Same Day)
+
+* [ ] Post recap message in Discord
+* [ ] Share recording (if applicable)
+* [ ] Re-share CTAs and links
+* [ ] Skim chat for unanswered questions
+* [ ] Note:
+
+  * who seemed engaged
+  * who might need a nudge
+  * any confusion to clarify tomorrow
+
+---
+
+## 🧙‍♂️ DM Reminders
+
+* You are setting culture, not policing it
+* Silence ≠ disengagement (especially Day 1)
+* Some people will decide this isn’t for them — that’s OK
+* Momentum > perfection

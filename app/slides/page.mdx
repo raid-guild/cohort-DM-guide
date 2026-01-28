@@ -1,0 +1,41 @@
+# Slides
+
+This section hosts slide decks rendered inside the docs site.
+
+- Use `---` (a thematic break) in a deck MDX file to split slides.
+
+## Creating decks
+
+Create a new deck at `app/slides/<deck-name>/page.mdx` and wrap the content in `<Deck>`.
+
+```mdx
+import { Deck } from '../../../components/slides/Deck';
+import { Slide } from '../../../components/slides/Slide';
+
+<Deck>
+  <Slide bg="/assets/headers/raven-solo.webp" overlay>
+    # Title slide
+    Add normal markdown here.
+  </Slide>
+
+  ---
+
+  <Slide>
+    ## Agenda
+    - Bullet one
+    - Bullet two
+  </Slide>
+</Deck>
+```
+
+### Slide props
+
+- `bg`: background image URL (cover)
+- `bgPosition`: CSS background-position value (default `center`)
+- `overlay`: boolean, adds a dark gradient overlay for contrast
+
+## Controls
+
+- Next slide: Right Arrow, Space, Page Down
+- Previous slide: Left Arrow, Page Up
+- Jump: Home / End
